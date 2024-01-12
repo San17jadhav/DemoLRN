@@ -1,6 +1,9 @@
 file3
-ssss
+Monkey D. Luffy
 Zoro
 Sanji
 Nami
 Robin
+Jinbe
+Brook
+Employee
